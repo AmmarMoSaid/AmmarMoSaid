@@ -1,11 +1,12 @@
-<div align="center">
+![20240326_164546](https://github.com/user-attachments/assets/8dc45cf4-d176-4002-b77e-09cbbb2d6319)<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,5DCAA5,EF9F27&height=140&section=header&text=Ammar%20Mohamed%20Said&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 ### CS & AI Student · Aspiring Web Developer
 **Beni Suef University — Computer Science & Artificial Intelligence**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AmmarMoSaid&icon=0&color=7)](https://visitcount.itsvg.in)
+[![Profile Views](![qs2](https://github.com/user-attachments/assets/ffb463cf-4bcf-441d-9ffb-443a7ef55e04)
+)]
 
 </div>
 
@@ -36,7 +37,7 @@ I'm a passionate **Computer Science and Artificial Intelligence** student at Ben
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E1F5EE?style=for-the-badge&logo=bootstrap&logoColor=085041)
 
 ### 🟡 Databases
-![MySQL](https://img.shields.io/badge/MySQL-FAEEDA?style=for-the-badge&logo=mysql&logoColor=633806)
+![SQL](https://img.shields.io/badge/SQL-FAEEDA?style=for-the-badge&logo=mysql&logoColor=633806)
 
 ### 🩷 Tools & Design
 ![Canva](https://img.shields.io/badge/Canva-FBEAF0?style=for-the-badge&logo=canva&logoColor=72243E)
