@@ -1,77 +1,14 @@
-![20240326_164546](https://github.com/user-attachments/assets/8dc45cf4-d176-4002-b77e-09cbbb2d6319)<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,5DCAA5,EF9F27&height=140&section=header&text=Ammar%20Mohamed%20Said&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-### CS & AI Student · Aspiring Web Developer
-**Beni Suef University — Computer Science & Artificial Intelligence**
-
-[![Profile Views](![qs2](https://github.com/user-attachments/assets/ffb463cf-4bcf-441d-9ffb-443a7ef55e04)
-)]
-
-</div>
-
+# 💫 About Me:
+Computer Science and AI Student | Aspiring Web Developer I'm a passionate Computer Science and Artificial Intelligence student at Beni Suef University, with
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmmarMoSaid&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmmarMoSaid&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMoSaid&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AmmarMoSaid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-
-## 👨‍💻 About Me
-
-I'm a passionate **Computer Science and Artificial Intelligence** student at Beni Suef University, with a love for building things on the web and exploring the intersection of software and intelligent systems.
-
-- 🎓 Studying CS & AI
-- 🌱 Currently leveling up in **web development**
-- 💡 Interested in AI, algorithms, and clean UI
-- 📍 Based in Egypt
-
----
-
-## 🛠️ Tech Stack
-
-### 🟣 Languages
-![C#](https://img.shields.io/badge/C%23-EEEDFE?style=for-the-badge&logo=csharp&logoColor=3C3489)
-![C++](https://img.shields.io/badge/C++-EEEDFE?style=for-the-badge&logo=cplusplus&logoColor=3C3489)
-![JavaScript](https://img.shields.io/badge/JavaScript-EEEDFE?style=for-the-badge&logo=javascript&logoColor=3C3489)
-![Java](https://img.shields.io/badge/Java-EEEDFE?style=for-the-badge&logo=openjdk&logoColor=3C3489)
-![HTML5](https://img.shields.io/badge/HTML5-EEEDFE?style=for-the-badge&logo=html5&logoColor=3C3489)
-![CSS3](https://img.shields.io/badge/CSS3-EEEDFE?style=for-the-badge&logo=css3&logoColor=3C3489)
-
-### 🟢 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-E1F5EE?style=for-the-badge&logo=bootstrap&logoColor=085041)
-
-### 🟡 Databases
-![SQL](https://img.shields.io/badge/SQL-FAEEDA?style=for-the-badge&logo=mysql&logoColor=633806)
-
-### 🩷 Tools & Design
-![Canva](https://img.shields.io/badge/Canva-FBEAF0?style=for-the-badge&logo=canva&logoColor=72243E)
-![Git](https://img.shields.io/badge/Git-FBEAF0?style=for-the-badge&logo=git&logoColor=72243E)
-![VS Code](https://img.shields.io/badge/VS%20Code-FBEAF0?style=for-the-badge&logo=visualstudiocode&logoColor=72243E)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=AmmarMoSaid&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AmmarMoSaid&theme=shadow_blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMoSaid&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=AmmarMoSaid&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,5DCAA5,EF9F27&height=100&section=footer" width="100%"/>
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=AmmarMoSaid&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+i want to change my portfolio can you help me
